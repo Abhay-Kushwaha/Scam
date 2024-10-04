@@ -1,3 +1,4 @@
+
 const quizData = [
     {
         question: 'What is the main greenhouse gas responsible for climate change?',
